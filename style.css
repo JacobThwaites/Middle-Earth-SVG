@@ -3,5 +3,41 @@
 }
 
 .eriador {
-    fill: green;
+    fill: lightgreen;
+}
+
+.arnor {
+    fill: red;
+}
+
+.rhun {
+    fill: grey;
+}
+
+.mirkwood {
+    fill: darkgreen;
+}
+
+.rohan {
+    fill: teal;
+}
+
+.rhovanion {
+    fill: yellow;
+}
+
+.gondor {
+    fill: maroon;
+}
+
+.mordor {
+    fill: darkslategrey;
+}
+
+.haradwaith {
+    fill: yellow;
+}
+
+#find {
+    fill: blue;
 }
