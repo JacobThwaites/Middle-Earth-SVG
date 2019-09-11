@@ -3,41 +3,82 @@
 }
 
 .eriador {
-    fill: lightgreen;
+    fill: #CDD53C;
+}
+
+.eriador:hover {
+    fill: #A5AA2E;
+    cursor: pointer;
 }
 
 .arnor {
-    fill: red;
+    fill: #9E4126;
+}
+
+.arnor:hover {
+    fill: #E38B5E;
+    cursor: pointer;
 }
 
 .rhun {
-    fill: grey;
+    fill: #725F49;
+}
+
+.rhun:hover {
+    fill: #2F2C1D;
+    cursor: pointer;
 }
 
 .mirkwood {
-    fill: darkgreen;
+    fill: #A3D065;
+}
+
+.mirkwood:hover {
+    fill: #39852A;
+    cursor: pointer;
 }
 
 .rohan {
-    fill: teal;
+    fill: rgb(108, 182, 157);
+}
+
+.rohan:hover {
+    fill: #4D8B55;
+    cursor: pointer;
 }
 
 .rhovanion {
-    fill: yellow;
+    fill: #D2992E;
+}
+
+.rhovanion:hover {
+    fill: #BB7C1E;
+    cursor: pointer;
 }
 
 .gondor {
-    fill: maroon;
+    fill: #A95011;
+}
+
+.gondor:hover {
+    fill: #7F321A;
+    cursor: pointer;
 }
 
 .mordor {
-    fill: darkslategrey;
+    fill: #6A702E;
+}
+
+.mordor:hover {
+    fill: #545314;
+    cursor: pointer;
 }
 
 .haradwaith {
-    fill: yellow;
+    fill: #CFAA13;
 }
 
-#find {
-    fill: blue;
+.haradwaith:hover {
+    fill: #BD7914;
+    cursor: pointer;
 }
