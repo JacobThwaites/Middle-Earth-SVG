@@ -7,7 +7,7 @@
 }
 
 .eriador:hover {
-    fill: #A5AA2E;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .arnor:hover {
-    fill: #E38B5E;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .rhun:hover {
-    fill: #2F2C1D;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -34,16 +34,16 @@
 }
 
 .mirkwood:hover {
-    fill: #39852A;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
 .rohan {
-    fill: rgb(108, 182, 157);
+    fill: #6cb69d;
 }
 
 .rohan:hover {
-    fill: #4D8B55;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -52,7 +52,7 @@
 }
 
 .rhovanion:hover {
-    fill: #BB7C1E;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -61,7 +61,7 @@
 }
 
 .gondor:hover {
-    fill: #7F321A;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .mordor:hover {
-    fill: #545314;
+    filter: brightness(0.85);
     cursor: pointer;
 }
 
@@ -79,6 +79,21 @@
 }
 
 .haradwaith:hover {
-    fill: #BD7914;
+    filter: brightness(0.85);
     cursor: pointer;
 }
+
+#find {
+    fill: blue;
+    z-index: 99;
+}
+
+/* #eriador-mountains {
+    fill: url('./eriador_mountains.png'); 
+    background-image: url('./eriador_mountains_no_background.png');
+    cursor: pointer;
+} */
+
+/* .mountains {
+    fill: black;
+} */

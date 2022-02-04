@@ -1,3 +1,3 @@
-# middle-earth-responsive-map
+# Middle Earth Responsive Map
 
-A proof of concept map with responsive regions for use with lord of the rings risk
+A proof of concept map with responsive regions for use with Lord of the Rings Risk
